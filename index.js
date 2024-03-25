@@ -1,4 +1,4 @@
-#!/usr /bin /env node
+#! usr/bin/env node 
 import inquirer from "inquirer";
 for (let i = 1; i < 4; i++) {
     const numbergen = Math.floor(Math.random() * 10);
@@ -18,19 +18,10 @@ for (let i = 1; i < 4; i++) {
 /*let a =Math.random()
 
 
-
-
-
 let b =a*5
 
 
-
-
-
 let c =Math.floor(b)
-
-
-
 
 
 let d =Math.floor(b)+1
@@ -40,29 +31,13 @@ let d =Math.floor(b)+1
 
 
 
-
-
-
-
-
-
-
 console.log(a);
-
-
-
 
 
 console.log(b);
 
 
-
-
-
 console.log(c);
-
-
-
 
 
 console.log(d);*/
